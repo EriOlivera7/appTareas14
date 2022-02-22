@@ -1,0 +1,42 @@
+[
+   {
+      "id": 1645039266370,
+      "descripcion": "Apreder JS",
+      "estado": "En proceso"
+   },
+   {
+      "id": 1645039304179,
+      "descripcion": "Apreder Node",
+      "estado": "Completado"
+   },
+   {
+      "id": 1645039360018,
+      "descripcion": "Apreder Sequelize",
+      "estado": "Pendiente"
+   },
+   {
+      "id": 1645039375866,
+      "descripcion": "Apreder HTML",
+      "estado": "Completado"
+   },
+   {
+      "id": 1645039401442,
+      "descripcion": "Apreder JS Front",
+      "estado": "Pendiente"
+   },
+   {
+      "id": 1645301430074,
+      "descripcion": "Aprender React",
+      "estado": "pendiente"
+   },
+   {
+      "id": 1645302828760,
+      "descripcion": "Aprender Mongo",
+      "estado": "pendiente"
+   },
+   {
+      "id": 1645303405225,
+      "descripcion": "Aprender Phyton",
+      "estado": "pendiente"
+   }
+]
